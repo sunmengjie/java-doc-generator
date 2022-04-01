@@ -52,6 +52,14 @@
                 <groupId>com.smj</groupId>
                 <artifactId>java-doc-generator-plugin</artifactId>
                 <version>1.0.0-SNAPSHOT</version>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>generator</goal>
+                        </goals>
+                    </execution>
+                </executions>
+
                 <configuration>
                     <controllers>
                         <controller>com.sun.mojo.demo.controller.UserController</controller>

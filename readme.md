@@ -31,7 +31,7 @@
 ````
 - 在<configuration>中配置 要生成接口文档的controller
 ### 3.mvn compile
-- 接口文档以.md 格式生成在根目录下
+- 接口文档以.md 格式生成在根目录下 如generator-demo下的 api.md
 
 ### 注意：
 - 当前版本仅支持少量注解的解析 

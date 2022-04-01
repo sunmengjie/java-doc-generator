@@ -1,0 +1,3 @@
+# Project exclude paths
+/generator-demo/target/
+/java-doc-generator-plugin/target/

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="java-doc-generator-plugin-1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../maven/repository/com/smj/java-doc-generator-plugin/1.0.0-SNAPSHOT/java-doc-generator-plugin-1.0.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

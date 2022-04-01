@@ -1,14 +1,14 @@
-# æ¥å£æ–‡æ¡£ 
-##  ç”¨æˆ·å¹³å°
+# ½Ó¿ÚÎÄµµ 
+##  ÓÃ»§Æ½Ì¨
 
 - class : com.sun.mojo.demo.controller.UserController
 
-### æ¥å£ ï¼š æ¬¢è¿ä½¿ç”¨
-- url  ï¼š  /demo/hello
+### ½Ó¿Ú £º »¶Ó­Ê¹ÓÃ
+- url  £º  /demo/hello
 - method  :   hello
 
-#### å‚æ•° 
+#### ²ÎÊı 
 
-|   å‚æ•°å   |   ç±»å‹   |   comment   |
+|   ²ÎÊıÃû   |   ÀàĞÍ   |   comment   |
 |   ----   |   ----   |   ----   |
-|   name   |   String   |   åç§°   |
+|   name   |   String   |   Ãû³Æ   |
